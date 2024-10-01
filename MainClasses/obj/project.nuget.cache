@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GOUrf+5CXj9bQOr2z7PSnk43Q7D5x+8zrm4nzVs7JW87VVZ1dO1hvCAUaOVQenvcGV4maP9yP2wzdcyVKkpHaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mi\\RiderProjects\\KDZ3_3\\MainClasses\\MainClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mi\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

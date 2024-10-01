@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wiikQQC2Ts2d/MV6+WtBlXQnuCfQD1evEq3ZUUppMKVf5z+sV9iTCdAi9g/CIO5BGOXkWdd0UbSQkiWh8YyLoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mi\\RiderProjects\\KDZ3_3\\KDZ3_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mi\\.nuget\\packages\\csvhelper\\31.0.2\\csvhelper.31.0.2.nupkg.sha512",
+    "C:\\Users\\Mi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mi\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\bin\Debug\net6.0\MainClasses.deps.json
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\bin\Debug\net6.0\MainClasses.dll
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\bin\Debug\net6.0\MainClasses.pdb
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\obj\Debug\net6.0\MainClasses.csproj.AssemblyReference.cache
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\obj\Debug\net6.0\MainClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\obj\Debug\net6.0\MainClasses.AssemblyInfoInputs.cache
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\obj\Debug\net6.0\MainClasses.AssemblyInfo.cs
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\obj\Debug\net6.0\MainClasses.csproj.CoreCompileInputs.cache
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\obj\Debug\net6.0\MainClasses.dll
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\obj\Debug\net6.0\refint\MainClasses.dll
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\obj\Debug\net6.0\MainClasses.pdb
+C:\Users\Mi\RiderProjects\KDZ3_3\MainClasses\obj\Debug\net6.0\ref\MainClasses.dll
